@@ -1,0 +1,52 @@
+.yy{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.pp >p{
+    position: relative;
+    top:240px;
+
+   
+}
+.kk >img{
+    position: relative;
+    top:110px;
+
+   
+}
+.lk {
+    position: relative;
+    top:-60px;
+    margin-left: 160px;
+}
+.jk{
+    width: 20%;
+margin:auto;
+margin-top: 30px;
+}
+.hg {
+    width: 80%;
+    margin: auto;
+    border: 1px solid black;
+height: 350px;
+margin-top: 200px;
+}
+.xx{
+    margin: auto;
+width:45%;
+margin-top:200px ;
+
+}
+#w3review{
+    height: 150px;
+width: 800px;
+}
+.big{
+    background-image: url(images/pexels-polina-tankilevitch-5469264.jpg);
+    height: 710px;;
+    width: 100%;
+    background-position:bottom;
+   
+}
